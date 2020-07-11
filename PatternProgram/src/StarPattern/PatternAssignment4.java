@@ -1,5 +1,10 @@
 package StarPattern;
-
+/* *********
+     *******
+       *****
+         ***
+           *
+        */
 public class PatternAssignment4 {
 	
 	public static void main(String[] args) {

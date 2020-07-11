@@ -1,4 +1,11 @@
 package StarPattern;
+/*
+ *
+ ***
+ *****
+ *******
+ *********
+ */
 
 public class PatternAssignment1 {
 
